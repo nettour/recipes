@@ -1,0 +1,44 @@
+/* the stylesheet for my recipes website */
+
+
+*{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 16px;
+    font-weight: 300;
+    color: black;
+    text-justify: inter-ideograph;
+}
+h1 {
+
+    font: optional;
+    font-size: 33px;
+    font-weight: 600;
+    text-align: center;
+    color: tomato;
+    background-color: unset;
+}
+
+p {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 14px;
+    text-align: justify;
+    text-wrap: left;
+    color: brown;
+}
+
+ol{
+    font-weight: 500;
+}
+
+ul{
+    font-style: initial;
+}
+
+img{
+    height: auto;
+    width: 550px;
+    align-items: center;
+    border: brown;
+    border-radius: 2%;
+    
+}
